@@ -1,1 +1,1 @@
-console.log("Hello Git!");
+console.log("Ahora estoy editando el archivo hellogit.js");
